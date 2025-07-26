@@ -14,7 +14,7 @@ A ready-to-use Docker image for TimescaleDB (PostgreSQL) with the [pg_idkit](htt
 
 ### Pull the Image
 ```sh
-docker pull ja7adr/tsdb-idkit
+docker pull ja7adr/tsdb-idkit:latest-17
 ```
 
 ### Run with Docker
